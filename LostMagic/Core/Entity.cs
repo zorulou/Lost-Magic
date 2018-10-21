@@ -14,6 +14,7 @@ namespace LostMagic.Core
         //Toute entité possède un statut "En vie", "Immobilisé", "Silence"(impossiblité d'attaquer) et "Invulnérable".
         //Toute entité possède une barre de buffs/débuffs.
 
+
         public int Sante { get; set; }
         public Elements MainElement { get; set; }
         public int Attaque { get; set; }

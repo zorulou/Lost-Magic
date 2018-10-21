@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Gigoto/source/repos/LostMagic/LostMagic/Content/TestMap.png</SourceFile>
+  <SourceFile>C:/Users/Gigoto/Desktop/LostMagic/prog/Lost-Magic/LostMagic/Content/TestMap.png</SourceFile>
   <SourceTime>2018-10-13T18:32:50.1005352+02:00</SourceTime>
-  <DestFile>C:/Users/Gigoto/source/repos/LostMagic/LostMagic/Content/bin/Windows/TestMap.xnb</DestFile>
-  <DestTime>2018-10-20T18:38:27.0026955+02:00</DestTime>
+  <DestFile>C:/Users/Gigoto/Desktop/LostMagic/prog/Lost-Magic/LostMagic/Content/bin/Windows/TestMap.xnb</DestFile>
+  <DestTime>2018-10-21T09:11:16.4735825+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
