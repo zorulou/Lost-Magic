@@ -15,7 +15,7 @@ namespace LostMagic.Core
     public class World : GameObject
     {
         //Le World dérive de la classe GameObject
-        //Les données de chaque map sont contenues dans le fichier app.config
+        //Les données de chaque map sont contenues dans le fichier App.config
 
         public class ImageTileInfo
         {
